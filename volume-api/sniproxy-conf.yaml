@@ -1,0 +1,5 @@
+routes:
+  - domains:
+    - "api.cubes.r2svz.dynamic.opentlc.com"
+    backend:
+      address: 192.168.81.1:6443
